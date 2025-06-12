@@ -9,7 +9,7 @@ This project showcases my skills, background, and creative work using a stylish 
 
 - **HTML5** – for structure and layout  
 - **CSS3** – for styling, animations, and responsiveness  
-- ⚙**JavaScript** – for interactive effects and smooth scrolling
+- **JavaScript** – for interactive effects and smooth scrolling
 
 ---
 
