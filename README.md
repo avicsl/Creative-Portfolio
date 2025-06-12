@@ -1,4 +1,4 @@
-# Creative Portfolio
+# Creative Portfolio 
 
 This is my practice project website. This project showcases my skills, background, and creative work using a stylish glassmorphism-inspired design while also studying **HTML**, **CSS**, and **JavaScript**.
 
