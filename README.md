@@ -1,7 +1,6 @@
 # Creative Portfolio
 
-Welcome to my personal portfolio website!  
-This project showcases my skills, background, and creative work using a stylish glassmorphism-inspired design.
+This is my personal portfolio website!. This project showcases my skills, background, and creative work using a stylish glassmorphism-inspired design while also studying **HTML**, **CSS**, **JavaScript**.
 
 ---
 
