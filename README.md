@@ -15,4 +15,5 @@ This is a practice project website. This project showcases my skills, background
 ## Note
 
 • **Featured Projects** is not integrated and updated yet.
+
 • This will continuosly be integrated.
