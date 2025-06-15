@@ -2,7 +2,7 @@
  
 This is a practice project website. This project showcases my skills, background, and creative work using a stylish glassmorphism-inspired design while also studying **HTML**, **CSS**, and **JavaScript**.
 
-Link: https://avicsl.github.io/Creative-Portfolio/Creative%20Portfolio/
+⛓️ Link: https://avicsl.github.io/Creative-Portfolio/Creative%20Portfolio/
 ---
 
 ## Built With
